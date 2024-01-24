@@ -1,0 +1,300 @@
+ { 
+  "about": [
+    { "name":"BBQ&Kebab",
+      "info1": "Barbecue in Kansas City is more than a menu item or a method of preparation. It’s an institution, rich with history and culinary tradition that shapes the city’s dining landscape every day and has since the early 1900s.",
+      "info2": "To follow the heritage, we embrace the tradition keeping the concept of ultimate comfort food and remain a part of something timeless with our “Kebab” Middle Eastern style of BBQ.",
+      "info3":"We use only low fat quality 100% American beef and lamb. Our smiles and laughter demonstrate confidence in our product and service. Our portions are rich and our service system is one of the easiest, quick serve kebab outlets in the country"
+    }
+  ],
+ 
+  "delivery":[
+   {
+    
+    "name":"Delivery",
+    "delivery_info":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum",
+   
+     "detail":[
+      { "id":1,
+        "img":"/info1.png",
+        "detail_name":"Uber Eats",
+        "info":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an"
+      },
+      { "id":2,
+        "img":"/info2.png",
+        "detail_name":"Doordash",
+        "info":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an"
+     } 
+     ]
+
+   }
+
+  ],
+
+
+  "cards":[
+
+    { "id":1,
+      "img":"/card1.png",
+      "calories":"4oz Beef 660 Calories",
+      "name":"KING KEBAB",
+      "price":"9.5$",
+       "ingredients_1": [
+        {
+          "img":"/meat_1.svg",
+          "ing_name":"Beef"
+        },
+        {
+          "img":"/meat_2.svg",
+          "ing_name":"Onion"
+        },
+        {
+          "img":"/meat_3.svg",
+          "ing_name":"Black Pepper"
+        },
+        {
+          "img":"/meat_4.svg",
+          "ing_name":"Salt"
+        }
+      ],
+      "ingredients_2": [
+
+        {
+          "img":"/meat_5.svg",
+          "ing_name":"Lavash/flathbred"
+        },
+        {
+          "img":"/meat_6.svg",
+          "ing_name":"Fries"
+        },
+        {
+          "img":"/meat_7.svg",
+          "ing_name":"Tomato"
+        },
+        {
+          "img":"/meat_8.svg",
+          "ing_name":"Cucumber"
+        },
+        {
+          "img":"/meat_9.svg",
+          "ing_name":"Lettuce"
+        },
+        {
+          "img":"/meat_10.svg",
+          "ing_name":"Parsley"
+        },
+        {
+          "img":"/meat_11.svg",
+          "ing_name":"Sumacs"
+        }
+        
+       ]
+
+    
+
+    },
+    { 
+      "id":2,
+      "img":"/card2.png",
+      "calories":"4 oz Lamb 620 Calories",
+      "name":"QUEEN KEBAB WRAP",
+      "price":"11.5$",
+      "ingredients_1": [
+        {
+          "img":"/meat_1.svg",
+          "ing_name":"Beef"
+        },
+        {
+          "img":"/meat_2.svg",
+          "ing_name":"Onion"
+        },
+        {
+          "img":"/meat_3.svg",
+          "ing_name":"Black Pepper"
+        },
+        {
+          "img":"/meat_4.svg",
+          "ing_name":"Salt"
+        }
+      ],
+      "ingredients_2": [
+
+        {
+          "img":"/meat_5.svg",
+          "ing_name":"Lavash/flathbred"
+        },
+        {
+          "img":"/meat_6.svg",
+          "ing_name":"Fries"
+        },
+        {
+          "img":"/meat_7.svg",
+          "ing_name":"Tomato"
+        },
+        {
+          "img":"/meat_8.svg",
+          "ing_name":"Cucumber"
+        },
+        {
+          "img":"/meat_9.svg",
+          "ing_name":"Lettuce"
+        },
+        {
+          "img":"/meat_10.svg",
+          "ing_name":"Parsley"
+        },
+        {
+          "img":"/meat_11.svg",
+          "ing_name":"Sumacs"
+        }
+        
+       ]
+
+    
+
+    },
+    {
+      "id":3,
+      "img":"/card3.png",
+      "calories":"4 oz Chicken 530 Calories",
+      "name":"CHICK KEBAB WRAP",
+      "price":"8.5$",
+      "ingredients_1": [
+        {
+          "img":"/meat_1.svg",
+          "ing_name":"Beef"
+        },
+        {
+          "img":"/meat_2.svg",
+          "ing_name":"Onion"
+        },
+        {
+          "img":"/meat_3.svg",
+          "ing_name":"Black Pepper"
+        },
+        {
+          "img":"/meat_4.svg",
+          "ing_name":"Salt"
+        }
+      ],
+      "ingredients_2": [
+
+        {
+          "img":"/meat_5.svg",
+          "ing_name":"Lavash/flathbred"
+        },
+        {
+          "img":"/meat_6.svg",
+          "ing_name":"Fries"
+        },
+        {
+          "img":"/meat_7.svg",
+          "ing_name":"Tomato"
+        },
+        {
+          "img":"/meat_8.svg",
+          "ing_name":"Cucumber"
+        },
+        {
+          "img":"/meat_9.svg",
+          "ing_name":"Lettuce"
+        },
+        {
+          "img":"/meat_10.svg",
+          "ing_name":"Parsley"
+        },
+        {
+          "img":"/meat_11.svg",
+          "ing_name":"Sumacs"
+        }
+        
+       ]
+
+    
+
+    },
+    {
+      "id":4,
+      "img":"/card4.png",
+      "calories":"7 Royal Wings 710 Calories",
+      "name":"ROYAL BBQ WINGS",
+      "price":"9.5$",
+      "ingredients_1": [
+        {
+          "img":"/meat_1.svg",
+          "ing_name":"Chicken wings paste"
+        },
+        {
+          "img":"/meat_2.svg",
+          "ing_name":"BBQ source"
+        },
+        {
+          "img":"/meat_3.svg",
+          "ing_name":"Black Pepper"
+        },
+        {
+          "img":"/meat_4.svg",
+          "ing_name":"Salt"
+        }
+      ],
+      "ingredients_2": [
+
+        {
+          "img":"/meat_5.svg",
+          "ing_name":"Lavash/flathbred"
+        },
+        {
+          "img":"/meat_6.svg",
+          "ing_name":"Fries"
+        } 
+        
+       ]
+
+    
+
+    },
+    {
+      "id":5,
+      "img":"/card5.png",
+      "calories":"450 Calories",
+      "name":"VEGGIE KEBAB WRAP",
+      "price":"8$",
+      "ingredients_1": [
+        {
+          "img":"/meat_1.svg",
+          "ing_name":"Chicken wings paste"
+        },
+        {
+          "img":"/meat_2.svg",
+          "ing_name":"BBQ source"
+        },
+        {
+          "img":"/meat_3.svg",
+          "ing_name":"Black Pepper"
+        },
+        {
+          "img":"/meat_4.svg",
+          "ing_name":"Salt"
+        }
+      ],
+      "ingredients_2": [
+
+        {
+          "img":"/meat_5.svg",
+          "ing_name":"Lavash/flathbred"
+        },
+        {
+          "img":"/meat_6.svg",
+          "ing_name":"Fries"
+        } 
+        
+       ]
+
+    
+
+    }
+    
+    
+
+  ]
+   
+}
